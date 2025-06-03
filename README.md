@@ -17,9 +17,7 @@ This project showcases a **personal card component** built using **HTML** and **
 
 ### Desktop View
 
-*Upload your image and replace the link below:*
-
-![Desktop View](./images/desktop-view.png)
+![Desktop View](vid.gif)
 
 ## 🛠️ Technologies Used
 
