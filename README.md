@@ -13,7 +13,7 @@ This project showcases a **personal card component** built using **HTML** and **
 
 ### Mobile View
 
-![Mobile View](./images/mobile-view.png)
+![Mobile View](scs.png)
 
 ### Desktop View
 
